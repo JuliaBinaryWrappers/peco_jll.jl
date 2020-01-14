@@ -1,0 +1,113 @@
+[[peco]]
+arch = "i686"
+git-tree-sha1 = "e983cbdf72cfacfffe37de12ee67907198ba03e3"
+libc = "glibc"
+os = "linux"
+
+    [[peco.download]]
+    sha256 = "fd4322503e5665396f26242c0a9279c9e9e379872d37492a9780e1046cc0241c"
+    url = "https://github.com/JuliaBinaryWrappers/peco_jll.jl/releases/download/peco-v0.5.7+0/peco.v0.5.7.i686-linux-gnu.tar.gz"
+[[peco]]
+arch = "i686"
+git-tree-sha1 = "efc29d4d31f317541c8f99766f792ee2ebfe4647"
+libc = "musl"
+os = "linux"
+
+    [[peco.download]]
+    sha256 = "8d68d3d1af6ce2fcb2408b2799a257ccdf94a50dc095f610efcc0e5696f7d44f"
+    url = "https://github.com/JuliaBinaryWrappers/peco_jll.jl/releases/download/peco-v0.5.7+0/peco.v0.5.7.i686-linux-musl.tar.gz"
+[[peco]]
+arch = "x86_64"
+git-tree-sha1 = "e076186665d556f574debc784b5fe96b8bb2d92b"
+os = "macos"
+
+    [[peco.download]]
+    sha256 = "b07f86f8fe4bee2e2bb7861b2ac9baa0cb429e9efdbba1681fb8813d1ce26e2d"
+    url = "https://github.com/JuliaBinaryWrappers/peco_jll.jl/releases/download/peco-v0.5.7+0/peco.v0.5.7.x86_64-apple-darwin14.tar.gz"
+[[peco]]
+arch = "powerpc64le"
+git-tree-sha1 = "5518ad143f6138e5c36f0868701a6aa09f62592f"
+libc = "glibc"
+os = "linux"
+
+    [[peco.download]]
+    sha256 = "03d5e04cc42f2dc6cf0f1a9a1ba654e9d3d3dfdc54b0616207edc8414c8966c2"
+    url = "https://github.com/JuliaBinaryWrappers/peco_jll.jl/releases/download/peco-v0.5.7+0/peco.v0.5.7.powerpc64le-linux-gnu.tar.gz"
+[[peco]]
+arch = "aarch64"
+git-tree-sha1 = "ab9739a7c354d26ffc544dca298ca5006a1d8540"
+libc = "glibc"
+os = "linux"
+
+    [[peco.download]]
+    sha256 = "2d79b72cc9c7c0fc229a0d07354bb5ec7eb146c7e772a67a5e10cf1e4aa83fd1"
+    url = "https://github.com/JuliaBinaryWrappers/peco_jll.jl/releases/download/peco-v0.5.7+0/peco.v0.5.7.aarch64-linux-gnu.tar.gz"
+[[peco]]
+arch = "x86_64"
+git-tree-sha1 = "1392c077fd462a5b8131e0a37d0bc7ea9302fedd"
+libc = "musl"
+os = "linux"
+
+    [[peco.download]]
+    sha256 = "3e6897f8ee29d1e47330c7ef90b37a1c3b05832155ac0901153fc444cb6c7cc4"
+    url = "https://github.com/JuliaBinaryWrappers/peco_jll.jl/releases/download/peco-v0.5.7+0/peco.v0.5.7.x86_64-linux-musl.tar.gz"
+[[peco]]
+arch = "aarch64"
+git-tree-sha1 = "b9fc2a76c0ca9582ca247a41a84db7ea41a5f0ed"
+libc = "musl"
+os = "linux"
+
+    [[peco.download]]
+    sha256 = "1d0811ebf94562c706a57c3cfd2088ac3137dc3e048e1bc27b36ea9dc3046502"
+    url = "https://github.com/JuliaBinaryWrappers/peco_jll.jl/releases/download/peco-v0.5.7+0/peco.v0.5.7.aarch64-linux-musl.tar.gz"
+[[peco]]
+arch = "armv7l"
+git-tree-sha1 = "6519789a2e1f91b4ae0edbaf2318ea9540325db7"
+libc = "musl"
+os = "linux"
+
+    [[peco.download]]
+    sha256 = "e05c833b776542add1519546db1ae5bd3abdf54ff1c826e9a1f7726a15ea134f"
+    url = "https://github.com/JuliaBinaryWrappers/peco_jll.jl/releases/download/peco-v0.5.7+0/peco.v0.5.7.arm-linux-musleabihf.tar.gz"
+[[peco]]
+arch = "i686"
+git-tree-sha1 = "43fd2ed67aeaef4555bb758f785026012d9fa564"
+os = "windows"
+
+    [[peco.download]]
+    sha256 = "0557ff4244438ce811047a2d454fc6298bc25af2b419a620851b95070dfa5092"
+    url = "https://github.com/JuliaBinaryWrappers/peco_jll.jl/releases/download/peco-v0.5.7+0/peco.v0.5.7.i686-w64-mingw32.tar.gz"
+[[peco]]
+arch = "x86_64"
+git-tree-sha1 = "80837d5e6e824e65fbaef84f7eb23e61400594a3"
+os = "freebsd"
+
+    [[peco.download]]
+    sha256 = "3bfcc233fe74c9ddabea7f5fead06d3aea5b14b6bbd5861cc69a135a2fcf8fed"
+    url = "https://github.com/JuliaBinaryWrappers/peco_jll.jl/releases/download/peco-v0.5.7+0/peco.v0.5.7.x86_64-unknown-freebsd11.1.tar.gz"
+[[peco]]
+arch = "armv7l"
+git-tree-sha1 = "fd65845f20db3e66c6824f22e4b27c80de2a8c00"
+libc = "glibc"
+os = "linux"
+
+    [[peco.download]]
+    sha256 = "e89c9fa74f1a7326d8fa9dad80f0baf3703dd90d26a4bb37c77506fdec650aeb"
+    url = "https://github.com/JuliaBinaryWrappers/peco_jll.jl/releases/download/peco-v0.5.7+0/peco.v0.5.7.arm-linux-gnueabihf.tar.gz"
+[[peco]]
+arch = "x86_64"
+git-tree-sha1 = "c4dd9479f6024b38792561ebfa41adf43f9e7126"
+libc = "glibc"
+os = "linux"
+
+    [[peco.download]]
+    sha256 = "a6ecced3401a6bb5784d839ad9f5726f226c40e274165d8cb0986a52fab69769"
+    url = "https://github.com/JuliaBinaryWrappers/peco_jll.jl/releases/download/peco-v0.5.7+0/peco.v0.5.7.x86_64-linux-gnu.tar.gz"
+[[peco]]
+arch = "x86_64"
+git-tree-sha1 = "5fd1177fad1fd2e582584003383df06e6509c54f"
+os = "windows"
+
+    [[peco.download]]
+    sha256 = "ec5409605de4840d00f0ee031ae66c3a64cc876f16d72abf8fc8fb1d790b710e"
+    url = "https://github.com/JuliaBinaryWrappers/peco_jll.jl/releases/download/peco-v0.5.7+0/peco.v0.5.7.x86_64-w64-mingw32.tar.gz"
